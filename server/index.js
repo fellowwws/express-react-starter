@@ -8,19 +8,19 @@ const data = [
     {   
         id: 1,
         timestamp: Date.now(),
-        title: 'Task 1',
+        title: 'Get coffee',
         complete: false,
     },
     {   
         id: 2,
         timestamp: Date.now(),
-        title: 'Task 2',
+        title: 'Tidy bedroom',
         complete: false,
     },
     {   
         id: 3,
         timestamp: Date.now(),
-        title: 'Get coffee',
+        title: 'Write code',
         complete: true,
     }
 ];
